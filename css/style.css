@@ -149,7 +149,7 @@ footer{
   position: relative;
   width: 100%;
   height: 400px;
-  background-image: linear-gradient(#2e2c2c,#101010);
+  background-color: #101010;
   display: flex;
   flex-direction: column;
   align-items: center;
